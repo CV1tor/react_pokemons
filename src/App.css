@@ -1,0 +1,24 @@
+.poke-container {
+    background-color: rgba(226, 226, 226, 0.479);
+    border: solid 2px rgba(1, 39, 75, 0.582);
+    border-radius: 50px;
+    width: 80vw;
+    margin-top: 20vh;
+    margin: auto;
+    margin-bottom: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+a > img{
+    max-width: 350px;
+    width: 100%;
+    margin: 5vh 0px;
+}
