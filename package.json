@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://cv1tor.github.io/react_pokemons/",
+  "homepage": "https://cv1tor.github.io/react_pokemons",
   "scripts": {
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d dist",
